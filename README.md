@@ -1,1 +1,1 @@
-# Forest-Fire-Detection
+# Brain-Tumor
